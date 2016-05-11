@@ -1,0 +1,8 @@
+Hardware connections - Pranjali, Arpita
+Laptop 1 (broker) setup - Haris, Arpita, Pranjali, Jina
+Laptop2 code - Pranjali, Arpita, Haris
+Laptop3 code - Haris, Pranjali
+Arduino code- Arpita, Haris
+Edison code- Jina, Pranjali
+Raspberry Pi code - Jina, Pranjali
+Documentation - Haris, Arpita, Pranjali, Jina
